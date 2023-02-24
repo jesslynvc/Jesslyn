@@ -56,8 +56,8 @@ There are some features in v0 that are not supported anymore in v1. See the docu
 
 ### Reference {#reference}
 
-//TODO: I don't think we need this part since we have all the related links above. We can add related v0 guides from .devßß. ex:
-- [Create Plug-in Setting Pages with Kintone UI Component (v0)](https://kintone.dev/en/plugins/plug-in-tool-guides/create-plug-in-setting-pages-with-kintone-ui-component-v0/)  
+//TODO: /MEMO/ Just adding related guides from .dev
+- [Create Form Components with Kintone UI Component (v1)](https://kintone.dev/en/tutorials/tool-guides/create-form-components-with-kintone-ui-component-v1/)
 - [Create Form Components with Kintone UI Component (v0)](https://kintone.dev/en/tutorials/tool-guides/create-form-components-with-kintone-ui-component-v0/)
 
 
